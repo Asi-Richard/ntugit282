@@ -1,34 +1,19 @@
-# Hello World!
-## Hellow World!
-### Hellow World!
-#### Hellow World!
-##### Hellow World!
-###### Hellow World!
-###### Hellow World!
-
-### My Favorite Things
-- TV Show
-- Movie
-- Code
-
-``` Javascript
-alert("Hello World!");
-```
-
-``` PHP
-echo strtime("2017/05/20 16:30:00");
-```
-
 # NTU GIT CLASS EXERCISE 1
 
 Name
 ----
+Summer
 
 Date
 ----
+2017/05/20
 
 Github Username
 ---------------
+summermagic77
 
-My Favorite 3 Programming Languages
+My Favorite 3 Dishes
 --------------------------------
+- Curry
+- Burgers
+- Fried Chicken
